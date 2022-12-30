@@ -37,7 +37,6 @@ export default function Home() {
         <SixButton />
         <BookNow />
       </div>
-<h1>adada</h1>
 
       <div className="hidden lg:block">
         <Slider />
